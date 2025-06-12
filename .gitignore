@@ -1,0 +1,36 @@
+# 编译生成的文件
+*.exe
+*.obj
+*.o
+*.dll
+*.so
+*.dylib
+
+# 调试文件
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# IDE相关文件
+.vs/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 构建目录
+build/
+bin/
+Debug/
+Release/
+
+# CMake生成的文件
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# 其他
+.DS_Store
+Thumbs.db 

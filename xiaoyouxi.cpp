@@ -1,0 +1,12 @@
+#include<iostream>
+as
+das
+d
+asd
+sa
+da
+sd
+a
+da
+sd
+a
