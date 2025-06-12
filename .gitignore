@@ -33,4 +33,8 @@ Makefile
 
 # 其他
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# 编码相关
+*.bak
+*.tmp 
